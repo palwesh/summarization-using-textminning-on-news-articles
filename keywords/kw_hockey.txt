@@ -1,0 +1,8 @@
+hockey
+team
+goal
+goalkeeper
+ball
+stick
+hockey-sticks 
+pass

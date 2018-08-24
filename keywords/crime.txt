@@ -1,0 +1,7 @@
+kill
+killed
+killing
+attacked
+arrested
+suicied
+dig
