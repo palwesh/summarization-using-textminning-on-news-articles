@@ -1,0 +1,6 @@
+Web has millions of documents on any topic.
+It is very difficult for anyone to read hundreds of documents to understand knowledge about any event.  My research aims to
+mine one Indian newspaper stories about events to create “automatic” summaries about events with a maximum length of two pages
+[about 30 statements]. The techniques that are going to be used are [1] keyword extraction [2] categorization or clustering
+[3] filtering of documents based on categorization [4] summarization using important sentence extraction.  We would be planning
+to use the content of one year’s archive of the Indian newspaper ‘The Hindu’.
